@@ -1,0 +1,98 @@
+body
+{
+background-color: grey;
+}
+
+h1
+{
+font-family: Courier; 
+text-align: center; 
+background-color: lightgrey; 
+}
+
+ul 
+{
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+.olist
+{ 
+text-align: center; 
+border: darkgray; 
+font-family: "Lucida Console" 
+}
+
+li a 
+{
+color: black;
+font-weight: thick; 
+font-family: "Lucida Console"; 
+font-size: +20;
+display: block;
+width: auto;
+text-decoration: none; 
+text-align: center; 
+
+}
+
+a.visited
+{
+color: purple; 
+}
+
+li a:hover 
+{
+  background-color: #555;
+  color: white;
+}
+
+.active 
+{
+  background-color: lavender;
+  color: slategrey;
+}
+
+p
+{
+text-align: center; 
+border: outset darkgray; 
+font-family: "Lucida Console"; 
+}
+
+.div1 
+{
+background-color: silver;
+}
+
+.uline
+{
+text-decoration: underline; 
+}
+
+.bold
+{
+font-weight: bold; 
+}
+
+.italic
+{
+font-weight: bold;
+font-style: italic;
+}
+
+.red
+{
+color: red; 
+}
+
+.resize
+{
+display: block; 
+width: 50%; 
+margin-top: 10px;
+margin-right: auto;
+margin-bottom: 10px;
+margin-left: auto;
+}
